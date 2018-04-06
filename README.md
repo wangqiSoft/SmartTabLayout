@@ -21,6 +21,6 @@ allprojects {
   
   	dependencies {
 	
-	        compile 'com.github.wangqiSoft:SmartTabLayout:v1.0.1'
+	        compile 'com.github.wangqiSoft:SmartTabLayout:v1.0.2'
 		
 	}
