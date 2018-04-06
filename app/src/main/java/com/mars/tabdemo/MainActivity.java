@@ -9,12 +9,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.strongman.tablayout.CommonScrollTabLayout;
-import com.strongman.tablayout.CommonTabLayout;
-import com.strongman.tablayout.SlidingTabLayout;
-import com.strongman.tablayout.listener.CustomTabEntity;
-import com.strongman.tablayout.listener.OnTabSelectListener;
-import com.strongman.tablayout.listener.impl.TabEntity;
+import com.wangqiSoft.tablayout.CommonScrollTabLayout;
+import com.wangqiSoft.tablayout.CommonTabLayout;
+import com.wangqiSoft.tablayout.SlidingTabLayout;
+import com.wangqiSoft.tablayout.listener.CustomTabEntity;
+import com.wangqiSoft.tablayout.listener.OnTabSelectListener;
+import com.wangqiSoft.tablayout.listener.impl.TabEntity;
 
 import java.util.ArrayList;
 

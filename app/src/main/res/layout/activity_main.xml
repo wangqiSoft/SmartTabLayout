@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="184dp"/>
 
-            <com.strongman.tablayout.CommonTabLayout
+            <com.wangqiSoft.tablayout.CommonTabLayout
                 android:id="@+id/tablayout1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
                 android:layout_height="84dp">
             </FrameLayout>
 
-            <com.strongman.tablayout.CommonTabLayout
+            <com.wangqiSoft.tablayout.CommonTabLayout
                 android:id="@+id/tablayout2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -73,7 +73,7 @@
                     android:layout_height="84dp">
                 </FrameLayout>
 
-                <com.strongman.tablayout.CommonScrollTabLayout
+                <com.wangqiSoft.tablayout.CommonScrollTabLayout
                     android:id="@+id/scroll_tablayout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -93,7 +93,7 @@
             </LinearLayout>
 
 
-            <com.strongman.tablayout.CommonTabLayout
+            <com.wangqiSoft.tablayout.CommonTabLayout
                 android:id="@+id/tab_layout_3"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
@@ -125,7 +125,7 @@
                     android:layout_height="wrap_content"
                     android:text="←"/>
 
-                <com.strongman.tablayout.SlidingTabLayout
+                <com.wangqiSoft.tablayout.SlidingTabLayout
                     android:id="@+id/sliding_tab_layout"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
