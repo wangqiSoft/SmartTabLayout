@@ -3,11 +3,16 @@
 
 第一步：
 
+
 allprojects {
+		
 		repositories {
+		
 			...
 			maven { url 'https://jitpack.io' }
+			
 		}
+		
 	}
   
   
@@ -15,5 +20,7 @@ allprojects {
   第二步：
   
   	dependencies {
+	
 	        compile 'com.github.wangqiSoft:SmartTabLayout:v1.0.0'
+		
 	}
